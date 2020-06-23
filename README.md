@@ -27,4 +27,4 @@
 2) Go to .env, Github will give you a client ID and secret. Replace GITHUB_CLIENT_ID and GITHUB_CLIENT_SECRET.
    - note for dev purposes leave every thing else as-is
 3) Run npm install at root of file to download react and nodjs dependencies
-4) Run npm start to startup app.
+4) Run npm start to startup app.# passport-react-jwt-app
